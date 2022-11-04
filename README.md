@@ -8,8 +8,8 @@ Hi 👋, This is my solution to the [NFT preview card component challenge on Fro
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [My process]
+  - [Built with]
 - [Author](#author)
 
 ## Overview
@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of completed project for the NFT preview card component coding challenge](./design/screenshot.jpg)
+![Screenshot of completed project for the NFT preview card component coding challenge](./design/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution page](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-flexbox-eYuftgJBhE)
+- Live Site URL: [Github Pages](https://justcandi.github.io/FrontendMentor-NFT-preview-card/)
 
 ## My process
 
@@ -40,5 +40,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [1MorePixel](https://www.1morepixel.co.uk)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/candiuk)
+- Frontend Mentor - [@yCandiuk](https://www.frontendmentor.io/profile/candiuk)
