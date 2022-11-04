@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of completed project for the NFT preview card component coding challenge](./design/screenshot.png)
+![Screenshot of completed project for the NFT preview card component coding challenge](./images/screenshot.png)
 
 ### Links
 
@@ -40,4 +40,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yCandiuk](https://www.frontendmentor.io/profile/candiuk)
+- Frontend Mentor - [@Candiuk](https://www.frontendmentor.io/profile/candiuk)
