@@ -87,22 +87,21 @@ body {
 
 .card-title {
 	font-size: var(--h-font-size);
-	color: var(--white);
 	font-weight: 600;
 	padding: 20px 0;
 }
 
-.card-title:hover,
+.card-title a, .card-avatar-name{
+	color: var(--white);
+	text-decoration: none;
+}
+
+.card-title a:hover,
 .card-avatar-name:hover {
 	color: var(--cyan);
 	text-decoration: none;
 	cursor: pointer;
 }
-
-/*.card-text {
-	font-size: var(--p-font-size);
-	font-weight: 300;
-}*/
 
 .card-info {
 	display: flex;
